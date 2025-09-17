@@ -1,7 +1,7 @@
 
 # WeChat Cleaner (AHK v2)
 
-> 🧹 一个基于 [AutoHotkey v2](https://www.autohotkey.com/) 的脚本，用于用于快速取关微信公众号，帮助老年用户轻松清理订阅列表。
+> 🧹 一个基于 [AutoHotkey v2](https://www.autohotkey.com/) 的脚本，用于用于快速取关微信公众号，帮助用户轻松清理订阅列表。
 
 ---
 
