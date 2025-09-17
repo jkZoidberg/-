@@ -83,6 +83,4 @@
 ---
 
 ## 📜 License
-
-MIT License  
-自由使用、修改和分发，但请自行承担使用风险。
+This project is licensed under the [Apache License 2.0](LICENSE).
